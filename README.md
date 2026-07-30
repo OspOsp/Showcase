@@ -20,7 +20,7 @@ of weekly manual research for 10 users.**
 **Python · Automation · ETL** — [Repository](https://github.com/OspOsp/Scraper-for-available-job-positions-in-LinkedIn)
 
 ### 2. NovaShop Data Simulator
-[One sentence: what breaks in real e-commerce data, and what this generates to test it.]
+Built a production-quality Python project that simulates a realistic e-commerce business (NovaShop, a fictional online electronics retailer), generating internally consistent synthetic data through a configurable application — not static CSV dumps.
 Configurable synthetic transaction generator with injected anomalies, built to
 stress-test revenue-assurance and data-quality checks before they hit production data.
 
