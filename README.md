@@ -11,7 +11,19 @@ client-risk scoring that retained ~$350K in revenue, and Python tooling that rem
 
 ## Featured Projects
 
-### 1. LinkedIn Job-Vacancy Scraper
+### 1. NovaShop — Synthetic E-Commerce Data & Anomaly Detection Testbed
+A configurable Python application that generates internally consistent relational
+data for a fictional online retailer — not static CSV dumps. Ships a documented
+`schema.sql` and ERD, and injects **11 classes of data anomaly with known ground
+truth**, each verified detectable by SQL (11/11). Built as a controlled environment
+for developing and validating revenue-assurance and data-quality checks before
+they run against production data.
+
+**SQL · Python · Data Modeling · Anomaly Detection · Analytics Engineering**
+— [Repository](https://github.com/OspOsp/novashop-simulator)
+
+
+### 2. LinkedIn Job-Vacancy Scraper
 A production data pipeline that monitors open roles across a portfolio of client
 companies and delivers filtered, decision-ready results into the spreadsheet the
 business already works in. **Extracts 1,000+ postings per run, replacing ~7 hours
@@ -19,12 +31,6 @@ of weekly manual research for 10 users.**
 
 **Python · Automation · ETL** — [Repository](https://github.com/OspOsp/Scraper-for-available-job-positions-in-LinkedIn)
 
-### 2. NovaShop Data Simulator
-Built a production-quality Python project that simulates a realistic e-commerce business (NovaShop, a fictional online electronics retailer), generating internally consistent synthetic data through a configurable application — not static CSV dumps.
-Configurable synthetic transaction generator with injected anomalies, built to
-stress-test revenue-assurance and data-quality checks before they hit production data.
-
-**Python · Data Quality · Anomaly Detection** — [Repository](https://github.com/OspOsp/novashop-simulator)
 
 ### 3. Bellabeat — Health App Recommendations
 Human-AI collaboration case study: documents what was delegated to an LLM, what was
