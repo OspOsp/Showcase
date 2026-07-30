@@ -18,7 +18,9 @@ Configurable synthetic data generation · Revenue assurance · Anomaly detection
 
 ### 3. Bellabeat Health App Analysis
 High-level recommendations based on fitness dataset of 33 participants.
-#[View Repository](https://github.com/YourUsername/bellabeat-analysis)
+#[View Repository]([https://github.com/YourUsername/bellabeat-analysis](https://github.com/OspOsp/Bellabeat-case-High-level-recommendations-to-improve-health-related-apps))
+[README.md] 
+[https://github.com/OspOsp/Bellabeat-case-High-level-recommendations-to-improve-health-related-apps/blob/main/README.md]
 
 
 
