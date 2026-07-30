@@ -5,7 +5,7 @@ Four years turning CRM and campaign data into decisions: 255K-contact segmentati
 client-risk scoring that retained ~$350K in revenue, and Python tooling that removed
 350+ hours of manual research per year.
 
-📍 Bogotá, Colombia · [LinkedIn](YOUR_LINKEDIN_URL) · davidos32955@gmail.com
+📍 Bogotá, Colombia · [LinkedIn]((https://www.linkedin.com/in/djoo/)) · davidos32955@gmail.com
 
 ---
 
