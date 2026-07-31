@@ -32,9 +32,9 @@ of weekly manual research for 10 users.**
 **Python · Automation · ETL** — [Repository](https://github.com/OspOsp/Scraper-for-available-job-positions-in-LinkedIn)
 
 
-### 3. Bellabeat — Health App Recommendations
+### 3. Bellabeat REANALYSIS — Health App Recommendations
 Human-AI collaboration case study: documents what was delegated to an LLM, what was
 independently verified, and where model output was wrong and how it was caught.
 
-**Analysis · LLM Workflow Design** — [Repository](https://github.com/OspOsp/Bellabeat-case-High-level-recommendations-to-improve-health-related-apps)
+**REANALYSIS · LLM Workflow Design** — [Repository](https://github.com/OspOsp/Bellabeat-case-High-level-recommendations-to-improve-health-related-apps)
 
