@@ -24,18 +24,14 @@ they run against production data.
 — [Repository](https://github.com/OspOsp/novashop-simulator)
 
 
-### 2. LinkedIn Job-Vacancy Scraper
-A production data pipeline that monitors open roles across a portfolio of client
-companies and delivers filtered, decision-ready results into the spreadsheet the
-business already works in. **Extracts 1,000+ postings per run, replacing ~7 hours
-of weekly manual research for 10 users.**
-
-**Python · Automation · ETL** — [Repository](https://github.com/OspOsp/Scraper-for-available-job-positions-in-LinkedIn)
-
-
-### 3. Bellabeat REANALYSIS — Health App Recommendations
+### 2. Bellabeat REANALYSIS — Health App Recommendations
 Human-AI collaboration case study: documents what was delegated to an LLM, what was
 independently verified, and where model output was wrong and how it was caught.
 
 **REANALYSIS · LLM Workflow Design** — [Repository](https://github.com/OspOsp/Bellabeat-case-High-level-recommendations-to-improve-health-related-apps)
 
+
+### 3. Plan revenue leakage detection project
+
+
+**Python · Automation · ETL** — [Repository](WORK IN PROGRESS)
