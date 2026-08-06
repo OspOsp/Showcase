@@ -26,12 +26,12 @@ they run against production data.
 
 ### 2. Bellabeat REANALYSIS — Health App Recommendations
 Human-AI collaboration case study: documents what was delegated to an LLM, what was
-independently verified, and where model output was wrong and how it was caught.
+independently verified, and where model output was wrong and how it was caught. 
 
 **REANALYSIS · LLM Workflow Design** — [Repository](https://github.com/OspOsp/Bellabeat-case-High-level-recommendations-to-improve-health-related-apps)
 
 
-### 3. Plan revenue leakage detection project
+### 3. Plan revenue leakage detection project --Next project. 
+Applying the NovaShop detection rules against a real transactional dataset. 
 
-
-**Python · Automation · ETL** — [Repository](WORK IN PROGRESS)
+**Python · Automation · ETL** — 
