@@ -1,12 +1,11 @@
-# David Ospina — Data Analyst
+Data Analyst
 **Marketing & Client Intelligence | Python · SQL · Data Quality at Scale**
 
 Four years turning CRM and campaign data into decisions: 255K-contact segmentation,
-client-risk scoring that retained ~$350K in revenue, and Python tooling that removed
-350+ hours of manual research per year.
+client-risk scoring that retained ~$350K in revenue.
 
-📍 Bogotá, Colombia · https://www.linkedin.com/in/djoo/ · 
-    email: davidos32955@gmail.com
+📍 Colombia
+
 
 ---
 
